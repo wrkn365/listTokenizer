@@ -1,0 +1,10 @@
+John, Doe, 123 4th st, Anchorage, Alaska
+Flo, Jones, 714 4th Ave, Miami, Florida
+Herbert, Gillespie, 439 mulberry Lane, Seattle, Washington
+Mary, Fredrickson, 6750 Riverside Ave, Nome, Alaska
+June, Bug, 569 11th st, Minneapolis, Minnesota
+Grace, Barnes, 418 25th Ave, Tulsa, Oklahoma
+Thomas, Edmonds, 8763 2nd st, Blue Earth, Minnesota
+George, Banks, 243 6th Ave, Boulder, Colorado
+Gene, Smith, 5924 112th st, New York City, New York
+Pam, Green, 329 willow Lane, Denver, Colorado
